@@ -27,12 +27,13 @@ Otro widget añadido en el cual encontramos una barra de menu desplegable para g
 
 ![Calculadora new window](https://user-images.githubusercontent.com/72813177/99115686-d4425e80-25c0-11eb-9c0f-89171e7f9558.png)
 
-Aqui se uestra el indicador dado a la función extra de calculo que es la raíz.
+Aqui se muestra el indicador dado a la función extra de calculo que es la raíz.
 
 ![Calculadora combobox](https://user-images.githubusercontent.com/72813177/99115700-d9071280-25c0-11eb-93d5-5ff50d516a11.png)
 
 el uso optimo del icono de calculator_30001.ico en la ventana se recomienda poner la imagen en la dirección
 d:\Personal\Downloads\Calculator_30001.ico, o si desea almacenarla en otro lugar entonces es preferible que en el código fuente edite 
-la dirección de la imagen (linea de código número 13), imagen añadida en el repositorio.
+la dirección de la imagen (linea de código número 13), imagen añadida en la carpeta images calculadora. 
+Fuente:https://icon-icons.com/es/download/30001/ICO/512/
 
 ![Calculadora direccion](https://user-images.githubusercontent.com/72813177/99115738-e3c1a780-25c0-11eb-8f69-7117018f6afb.png)
